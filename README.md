@@ -10,4 +10,6 @@
 > A tool to manager your chrome tabs.
 
 ## donate
+![alipay](img/donate-alipay.jpg)
 
+![wechat](img/donate-wechat.png)
