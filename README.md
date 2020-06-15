@@ -10,6 +10,11 @@
 > A tool to manager your chrome tabs.
 
 ## donate
-![alipay](img/donate-alipay.jpg)
+<img width = "300" src="img/donate-alipay.jpg"  alt="alipay" align=center />
+<img width = "300" src="img/donate-wechat.png"  alt="wechat" align=center />
 
+
+<!-- 
+![alipay](img/donate-alipay.jpg)
 ![wechat](img/donate-wechat.png)
+-->
